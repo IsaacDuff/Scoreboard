@@ -1,0 +1,13 @@
+.heroimg {
+    background-image: url(https://images.pexels.com/photos/4691567/pexels-photo-4691567.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+}
+
+.scoreboard {
+    background-color: #11208e;
+    border-color: #775ee9;
+    min-height: 60vh;
+    opacity: 60%;
+}
