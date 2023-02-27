@@ -24,14 +24,14 @@ function home3() {
 
 function away1() {
     console.log("away up one")
-    myCode += 1
+    myCodeAway += 1
     console.log(myCodeAway)
     drawCodeAway()
 }
 
 function away3() {
     console.log("away up 3")
-    myCode += 3
+    myCodeAway += 3
     console.log(myCodeAway)
     drawCodeAway()
 }
