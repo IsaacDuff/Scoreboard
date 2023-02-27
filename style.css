@@ -12,8 +12,9 @@
     /* opacity: 60%; */
 }
 
-.blue-button {
-    background-color: #11208e;
-    border-color: #775ee9;
-    opacity: 60%;
+.scorecard {
+    background-color: #2f449e;
+    border-color: #335aa9;
+    fill-opacity: 60%;
+    font-size: x-large;
 }
