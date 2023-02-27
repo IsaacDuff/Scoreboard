@@ -45,3 +45,12 @@ function drawCodeAway() {
     let codeWindow = document.getElementById("away-code-window")
     codeWindow.innerText = myCodeAway
 }
+
+function resetCode() {
+    myCode = 0
+    myCodeAway = 0
+    console.log('reset code')
+    drawCode()
+    drawCodeAway()
+
+}
